@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Harry",
+        "age": 20,
+        "city": "London"
+    },
+    {
+        "name": "Genry",
+        "age": 32,
+        "city": "Santafe"
+    },
+    {
+        "name": "Xiko",
+        "age": 32,
+        "city": "Beograd"
+    },
+    {
+        "name": "Katrin",
+        "age": 21,
+        "city": "Beograd"
+    }
+]
